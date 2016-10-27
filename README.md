@@ -26,7 +26,7 @@ For an overview of the course, see [Dr. Martin's class page][5].
 
 [1]: hale_dibble_forsyth_maze_runner.pdf                    "PDF Final Paper"
 [2]: RobotCloseup.jpg                                       "Close-up Picture"
-[3]: http://nbviewer.jupyter.org/github/ashhale/MobileRobotics1/blob/master/Robot3Turns.mp4     "Video of 3 turns"
+[3]: https://drive.google.com/file/d/0Bw4Lf6PDrU9ceDhoV2NVTVlieWc/view?usp=sharing  "Video of 3 turns"
 [4]: https://www.youtube.com/watch?v=EDUWYasbZIA            "Video of alignment between lines"
 [5]: http://www.cs.uml.edu/ecg/index.php/MRIspr16/MRIspr16  "COMP.4510 Mobile Robotics I"
 [6]: RobotCloseup.jpg                                       "Pic of Maze Runner"
